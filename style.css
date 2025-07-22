@@ -32,9 +32,9 @@ nav{
 
 a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-weight: bold;
-    background-color: aqua;
+    background-color: crimson;
     border-radius: 2px;
     padding: 5px 15px;
      font-size: 1rem;
@@ -60,12 +60,12 @@ h1{
 aside {
     flex-grow: 1;
     padding: 10px;
-    height: 90%;
+    height: 97%;
 
 }
 article {
     flex-grow: 2;
-    height: 90%;
+    height: 97%;
     padding: 5px;
       
 }
